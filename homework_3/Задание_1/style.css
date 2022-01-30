@@ -1,0 +1,31 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: lightgrey;
+}
+
+.main_img{
+    margin: 5px;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto
+}
+
+form{
+    margin-left: 15px;
+    background-color: beige;
+} 
+
+.head{
+    min-height: 120px;
+    background-color: bisque;
+}
